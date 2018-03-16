@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EngineerAi</string>
+    <string name="spinner_title">country</string>
+    <string name="apply_text">Apply</string>
+    <string name="base_url">http://sd2-hiring.herokuapp.com</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="spinner_category">cat</string>
+    <string name="product_detail">Product</string>
+    <string name="title_text">engineer.ai</string>
+</resources>
